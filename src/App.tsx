@@ -684,7 +684,6 @@ export default function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isWindowFocused, setIsWindowFocused] = useState(true);
   
   const scrollRef = useRef<HTMLDivElement>(null);
