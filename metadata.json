@@ -1,0 +1,5 @@
+{
+  "name": "SecretChat - Encrypted Messenger",
+  "description": "A fully encrypted, Telegram-style secret chat application with end-to-end encryption and real-time messaging.",
+  "requestFramePermissions": ["geolocation"]
+}
